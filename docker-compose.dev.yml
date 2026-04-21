@@ -1,0 +1,29 @@
+version: "3.9"
+
+# Dev override — only spins up infrastructure, not app containers.
+# Usage: docker compose -f docker-compose.yml -f docker-compose.dev.yml up -d postgres redis
+
+services:
+  postgres:
+    ports:
+      - "5432:5432"
+
+  redis:
+    ports:
+      - "6379:6379"
+
+  backend:
+    build: !reset null
+    image: !reset null
+    volumes:
+      - ./packages/backend/src:/app/src
+      - ./agents:/app/agents:ro
+      - ./knowledge-base:/app/knowledge-base:ro
+    command: npx tsx watch src/server.ts
+
+  frontend:
+    build: !reset null
+    image: !reset null
+    volumes:
+      - ./packages/frontend/src:/app/src
+    command: npx vite --host
