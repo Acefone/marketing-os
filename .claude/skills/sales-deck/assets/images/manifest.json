@@ -1,0 +1,749 @@
+[
+  {
+    "file": "image18.png",
+    "sha1": "6e963bc9fe77",
+    "bytes": 356759,
+    "dimensions": [
+      846,
+      610
+    ],
+    "first_slide": 7
+  },
+  {
+    "file": "image19.png",
+    "sha1": "eae51b36e105",
+    "bytes": 35666,
+    "dimensions": [
+      1403,
+      270
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image20.png",
+    "sha1": "dbd244b0e435",
+    "bytes": 21908,
+    "dimensions": [
+      2000,
+      607
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image21.png",
+    "sha1": "93d15529c4e0",
+    "bytes": 172461,
+    "dimensions": [
+      3840,
+      1688
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image22.png",
+    "sha1": "d15cb221847a",
+    "bytes": 37492,
+    "dimensions": [
+      1280,
+      375
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image23.png",
+    "sha1": "a998356589a3",
+    "bytes": 4903,
+    "dimensions": [
+      413,
+      122
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image24.png",
+    "sha1": "19b4a1e8d899",
+    "bytes": 109384,
+    "dimensions": [
+      1180,
+      378
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image25.jpeg",
+    "sha1": "e69d58d0f526",
+    "bytes": 16802,
+    "dimensions": [
+      800,
+      200
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image26.png",
+    "sha1": "e1d7c72099f7",
+    "bytes": 6679,
+    "dimensions": [
+      405,
+      124
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image27.png",
+    "sha1": "c6277f30afe3",
+    "bytes": 194659,
+    "dimensions": [
+      3790,
+      695
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image28.png",
+    "sha1": "8507aa83ee07",
+    "bytes": 4377,
+    "dimensions": [
+      268,
+      188
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image29.png",
+    "sha1": "6642d6550997",
+    "bytes": 15591,
+    "dimensions": [
+      480,
+      280
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image30.png",
+    "sha1": "ce6cc3e64f1a",
+    "bytes": 31788,
+    "dimensions": [
+      1567,
+      652
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image31.png",
+    "sha1": "bc03e59befde",
+    "bytes": 14463,
+    "dimensions": [
+      200,
+      200
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image32.png",
+    "sha1": "c65d2867cb64",
+    "bytes": 13932,
+    "dimensions": [
+      800,
+      285
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image33.png",
+    "sha1": "1f35e1276ff3",
+    "bytes": 18970,
+    "dimensions": [
+      820,
+      160
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image35.png",
+    "sha1": "95d80dcd6d3b",
+    "bytes": 47921,
+    "dimensions": [
+      768,
+      152
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image36.png",
+    "sha1": "14b8c51dd364",
+    "bytes": 21234,
+    "dimensions": [
+      800,
+      571
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image37.png",
+    "sha1": "9bb73554cdc0",
+    "bytes": 46194,
+    "dimensions": [
+      800,
+      516
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image38.png",
+    "sha1": "9d50986de267",
+    "bytes": 14433,
+    "dimensions": [
+      800,
+      183
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image39.png",
+    "sha1": "6a3e4b5275a8",
+    "bytes": 620196,
+    "dimensions": [
+      1600,
+      1118
+    ],
+    "first_slide": 10
+  },
+  {
+    "file": "image40.png",
+    "sha1": "de11e778ac50",
+    "bytes": 8886,
+    "dimensions": [
+      320,
+      378
+    ],
+    "first_slide": 10
+  },
+  {
+    "file": "image41.png",
+    "sha1": "42d9a76f7bcb",
+    "bytes": 133460,
+    "dimensions": [
+      2500,
+      795
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image42.png",
+    "sha1": "59f9bfd41754",
+    "bytes": 203888,
+    "dimensions": [
+      2500,
+      1069
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image43.png",
+    "sha1": "b512d416f73f",
+    "bytes": 107299,
+    "dimensions": [
+      2500,
+      365
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image44.png",
+    "sha1": "f900147d3b3e",
+    "bytes": 388669,
+    "dimensions": [
+      1904,
+      1400
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image45.png",
+    "sha1": "3caa99e9d266",
+    "bytes": 30455,
+    "dimensions": [
+      1712,
+      558
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image46.png",
+    "sha1": "0d32ddc77152",
+    "bytes": 102732,
+    "dimensions": [
+      2500,
+      566
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image47.png",
+    "sha1": "44d57a139537",
+    "bytes": 82206,
+    "dimensions": [
+      1290,
+      306
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image48.png",
+    "sha1": "9e0e84458b72",
+    "bytes": 32940,
+    "dimensions": [
+      1502,
+      348
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image49.png",
+    "sha1": "80bdf7ee2856",
+    "bytes": 20726,
+    "dimensions": [
+      1200,
+      900
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image50.png",
+    "sha1": "70265bb544c2",
+    "bytes": 92658,
+    "dimensions": [
+      2500,
+      586
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image51.png",
+    "sha1": "92416abd9ad1",
+    "bytes": 27835,
+    "dimensions": [
+      1022,
+      420
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image52.png",
+    "sha1": "6a01e8b733fa",
+    "bytes": 8698,
+    "dimensions": [
+      768,
+      133
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image53.png",
+    "sha1": "e3eba75d9126",
+    "bytes": 8702,
+    "dimensions": [
+      1280,
+      308
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image54.jpeg",
+    "sha1": "28aefe3a7657",
+    "bytes": 12875,
+    "dimensions": [
+      758,
+      244
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image55.jpeg",
+    "sha1": "ccb1bd441f56",
+    "bytes": 24625,
+    "dimensions": [
+      1200,
+      628
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image56.png",
+    "sha1": "c74ba199aadf",
+    "bytes": 16524,
+    "dimensions": [
+      1280,
+      172
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image57.jpeg",
+    "sha1": "3ae4fe010219",
+    "bytes": 7210,
+    "dimensions": [
+      430,
+      144
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image58.jpeg",
+    "sha1": "7188829e4acb",
+    "bytes": 16093,
+    "dimensions": [
+      792,
+      287
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image59.jpeg",
+    "sha1": "427e3e42adbc",
+    "bytes": 18163,
+    "dimensions": [
+      1024,
+      329
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image60.jpeg",
+    "sha1": "e18366ec8af7",
+    "bytes": 23418,
+    "dimensions": [
+      952,
+      546
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image61.jpeg",
+    "sha1": "8817e422756c",
+    "bytes": 8369,
+    "dimensions": [
+      420,
+      215
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image62.jpeg",
+    "sha1": "a4d732a36063",
+    "bytes": 7282,
+    "dimensions": [
+      435,
+      116
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image63.png",
+    "sha1": "e7b4dc96a59a",
+    "bytes": 14055,
+    "dimensions": [
+      1280,
+      168
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image64.png",
+    "sha1": "a336cfb116ee",
+    "bytes": 8425,
+    "dimensions": [
+      476,
+      106
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image65.png",
+    "sha1": "27559f364244",
+    "bytes": 10370,
+    "dimensions": [
+      417,
+      121
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image66.png",
+    "sha1": "a9b6e0f8d02d",
+    "bytes": 37121,
+    "dimensions": [
+      1382,
+      256
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image67.jpeg",
+    "sha1": "2ff0487636b6",
+    "bytes": 13218,
+    "dimensions": [
+      600,
+      333
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image68.jpeg",
+    "sha1": "0aa1e4be934c",
+    "bytes": 4567,
+    "dimensions": [
+      224,
+      224
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image69.png",
+    "sha1": "d82607490c51",
+    "bytes": 15982,
+    "dimensions": [
+      354,
+      120
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image70.png",
+    "sha1": "d70ef225479b",
+    "bytes": 15981,
+    "dimensions": [
+      300,
+      200
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image71.png",
+    "sha1": "552f6aa1a8b6",
+    "bytes": 3681,
+    "dimensions": [
+      287,
+      90
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image72.png",
+    "sha1": "8e16962888a8",
+    "bytes": 37650,
+    "dimensions": [
+      540,
+      155
+    ],
+    "first_slide": 11
+  },
+  {
+    "file": "image73.png",
+    "sha1": "c0b707b2d5a4",
+    "bytes": 2054,
+    "dimensions": [
+      535,
+      293
+    ],
+    "first_slide": 13
+  },
+  {
+    "file": "image74.png",
+    "sha1": "1678cd61bb15",
+    "bytes": 497,
+    "dimensions": [
+      45,
+      50
+    ],
+    "first_slide": 13
+  },
+  {
+    "file": "image75.png",
+    "sha1": "f9779ff7b2e8",
+    "bytes": 74035,
+    "dimensions": [
+      1600,
+      793
+    ],
+    "first_slide": 13
+  },
+  {
+    "file": "image34.png",
+    "sha1": "dd4fdef0fad0",
+    "bytes": 7656,
+    "dimensions": [
+      820,
+      85
+    ],
+    "first_slide": 8
+  },
+  {
+    "file": "image1.png",
+    "sha1": "6251d0a91523",
+    "bytes": 1714,
+    "dimensions": [
+      158,
+      46
+    ],
+    "first_slide": 1
+  },
+  {
+    "file": "image2.png",
+    "sha1": "4f5b8e6106d7",
+    "bytes": 98010,
+    "dimensions": [
+      2500,
+      366
+    ],
+    "first_slide": 1
+  },
+  {
+    "file": "image3.png",
+    "sha1": "9ab110a043f8",
+    "bytes": 35815,
+    "dimensions": [
+      1018,
+      464
+    ],
+    "first_slide": 1
+  },
+  {
+    "file": "image4.png",
+    "sha1": "fa321075b676",
+    "bytes": 41264,
+    "dimensions": [
+      1488,
+      324
+    ],
+    "first_slide": 1
+  },
+  {
+    "file": "image5.png",
+    "sha1": "f1d1982b2255",
+    "bytes": 4190,
+    "dimensions": [
+      264,
+      78
+    ],
+    "first_slide": 2
+  },
+  {
+    "file": "image6.png",
+    "sha1": "1455ad1259a1",
+    "bytes": 1092,
+    "dimensions": [
+      20,
+      200
+    ],
+    "first_slide": 16
+  },
+  {
+    "file": "image7.svg",
+    "sha1": "7397d6d84770",
+    "bytes": 2910,
+    "dimensions": null,
+    "first_slide": 18
+  },
+  {
+    "file": "image8.png",
+    "sha1": "336cd31cf463",
+    "bytes": 33209,
+    "dimensions": [
+      1230,
+      476
+    ],
+    "first_slide": 18
+  },
+  {
+    "file": "image9.png",
+    "sha1": "9c6402756c33",
+    "bytes": 395,
+    "dimensions": [
+      18,
+      19
+    ],
+    "first_slide": 21
+  },
+  {
+    "file": "image10.png",
+    "sha1": "0dd50e79f301",
+    "bytes": 441,
+    "dimensions": [
+      23,
+      19
+    ],
+    "first_slide": 21
+  },
+  {
+    "file": "image11.png",
+    "sha1": "ba01043bb87e",
+    "bytes": 397,
+    "dimensions": [
+      14,
+      19
+    ],
+    "first_slide": 21
+  },
+  {
+    "file": "image12.png",
+    "sha1": "c8d5cf1ee9bd",
+    "bytes": 534,
+    "dimensions": [
+      18,
+      19
+    ],
+    "first_slide": 21
+  },
+  {
+    "file": "image13.png",
+    "sha1": "2eaeedc45b0d",
+    "bytes": 867806,
+    "dimensions": [
+      1970,
+      1686
+    ],
+    "first_slide": 21
+  },
+  {
+    "file": "image14.png",
+    "sha1": "e41037757db8",
+    "bytes": 94638,
+    "dimensions": [
+      514,
+      707
+    ],
+    "first_slide": 3
+  },
+  {
+    "file": "image15.png",
+    "sha1": "fe8fccd91dde",
+    "bytes": 150835,
+    "dimensions": [
+      1096,
+      534
+    ],
+    "first_slide": 4
+  },
+  {
+    "file": "image16.png",
+    "sha1": "152798cec94e",
+    "bytes": 500604,
+    "dimensions": [
+      1285,
+      786
+    ],
+    "first_slide": 5
+  },
+  {
+    "file": "image17.png",
+    "sha1": "3ff7df8ce231",
+    "bytes": 244273,
+    "dimensions": [
+      1009,
+      786
+    ],
+    "first_slide": 6
+  }
+]
