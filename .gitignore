@@ -25,3 +25,11 @@ Thumbs.db
 
 # Test outputs
 /test-outputs/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# sales-deck skill
+.claude/skills/sales-deck/.venv/
+.claude/skills/sales-deck/__pycache__/
+.claude/skills/sales-deck/scripts/__pycache__/
